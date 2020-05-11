@@ -6,6 +6,7 @@ require "pry"
 # end
 
 def square_array(array)
+<<<<<<< HEAD
   square = []
   
   array.each do |num|
@@ -13,3 +14,8 @@ def square_array(array)
   end
   square
 end
+=======
+  array.each do |num|
+  num * ....
+end
+>>>>>>> 7db8d39d42d58acb5188c462f787ff40cbb90e31
